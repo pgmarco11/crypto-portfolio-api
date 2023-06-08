@@ -1,0 +1,17 @@
+{
+  "name": "crypto-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server -p 3006 -w db.json"
+  },
+  "author": "Peter Giammarco",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}

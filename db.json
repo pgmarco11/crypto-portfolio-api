@@ -1,0 +1,310 @@
+{
+  "portfolios": [
+    {
+      "id": "2449c886-d7c4-4dd2-a1ed-c96e6d76f739",
+      "coins": [
+        "ALGO",
+        "RUNE",
+        "SAND",
+        "XRP",
+        "BNB",
+        "NEAR",
+        "QNT",
+        "MATIC",
+        "ADA",
+        "BTC",
+        "ETH"
+      ],
+      "values": [],
+      "analysis": [],
+      "name": "hodl"
+    },
+    {
+      "name": "MeMe",
+      "id": "8939ed4f-7e24-49ae-9db0-431d2d3119ff",
+      "coins": [
+        "QUACK",
+        "CATE",
+        "VINU",
+        "MONG",
+        "FLOKI",
+        "PAXG",
+        "BOBT"
+      ],
+      "values": [
+        {
+          "coinId": "FLOKI",
+          "amount": 4672680.245
+        },
+        {
+          "coinId": "MONG",
+          "amount": 641628520
+        },
+        {
+          "coinId": "BOBT",
+          "amount": 1109962.97194373
+        },
+        {
+          "coinId": "VINU",
+          "amount": 10395299543.28
+        },
+        {
+          "coinId": "CATE",
+          "amount": 169660413.6248897
+        },
+        {
+          "coinId": "QUACK",
+          "amount": 95002618651.3472
+        }
+      ],
+      "analysis": [
+        {
+          "coinName": "mongcoin",
+          "coinId": "MONG"
+        }
+      ]
+    },
+    {
+      "id": "d2aad7eb-9fa2-46d1-a472-09aefb2b866e",
+      "coins": [
+        "CUMMIES",
+        "SENSO",
+        "HIGH",
+        "FOX",
+        "FUSE",
+        "BONK",
+        "SOLVE",
+        "TREEB",
+        "TOWN",
+        "DAFI",
+        "BEETS",
+        "MAN",
+        "MOOV",
+        "DVI",
+        "HORD",
+        "NAKA",
+        "HOGE",
+        "UBT",
+        "VXV",
+        "GODS",
+        "UFO",
+        "ATLAS",
+        "WILD",
+        "PRE",
+        "VLX",
+        "MTRG",
+        "JUNO",
+        "GHST",
+        "SFUND",
+        "STG",
+        "AAVE",
+        "COMP",
+        "CRV",
+        "LDO",
+        "RPL",
+        "ARRR",
+        "KISHU",
+        "COTI",
+        "PYR",
+        "LOOKS",
+        "XCAD",
+        "DUSK",
+        "CORE",
+        "DYDX",
+        "AR",
+        "ROSE",
+        "IOTX",
+        "LYXE",
+        "DENT",
+        "HELLO",
+        "DFG",
+        "GMX",
+        "IMX",
+        "INJ",
+        "MASK",
+        "SPOOL",
+        "XRD",
+        "THETA",
+        "BLUR",
+        "DPX",
+        "UNI",
+        "OP",
+        "APT",
+        "KAVA",
+        "ELON"
+      ],
+      "values": [],
+      "analysis": [],
+      "name": "Buys"
+    },
+    {
+      "id": "243cb572-8ad6-4cdd-90a4-fe01b8c2008f",
+      "coins": [
+        "SOUL",
+        "OCT",
+        "WAS",
+        "MASQ",
+        "KATA",
+        ""
+      ],
+      "values": [
+        {
+          "coinId": "SOUL",
+          "amount": "662.14312"
+        },
+        {
+          "coinId": "WAS",
+          "amount": "2452.128"
+        },
+        {
+          "coinId": "OCT",
+          "amount": "382.93"
+        },
+        {
+          "coinId": "MASQ",
+          "amount": "225.896673074215208003"
+        },
+        {
+          "coinId": "KATA",
+          "amount": "130779.775"
+        }
+      ],
+      "analysis": [],
+      "name": "Degen"
+    },
+    {
+      "id": "98c9e260-3318-4a4b-a1e9-036ea38503b5",
+      "coins": [
+        "AGI",
+        "SHIB",
+        "BABYDOGE",
+        "AVA",
+        "CULT",
+        "HNT"
+      ],
+      "values": [
+        {
+          "coinId": "SHIB",
+          "amount": 19235873.601
+        },
+        {
+          "coinId": "AGI",
+          "amount": 753.668
+        },
+        {
+          "coinId": "BABYDOGE",
+          "amount": 80088289501.9974
+        },
+        {
+          "coinId": "HNT",
+          "amount": 47.110524
+        },
+        {
+          "coinId": "AVA",
+          "amount": 0.46771
+        },
+        {
+          "coinId": "CULT",
+          "amount": 13523056.18347625
+        }
+      ],
+      "analysis": [],
+      "name": "Beyond"
+    },
+    {
+      "id": "cfef1095-7631-4cdd-a469-f7f8fd340f6a",
+      "coins": [
+        "AVAX",
+        "LRC",
+        "ATOM",
+        "FTM",
+        "AUDIO",
+        "LINK",
+        "DOGE",
+        "EGLD",
+        "GALA",
+        "CRO",
+        "LDO",
+        "THETA",
+        "ICP"
+      ],
+      "values": [],
+      "analysis": [],
+      "name": "Moon"
+    },
+    {
+      "id": "4577e8cc-ba74-4b4f-b4dc-0af8c91ace8d",
+      "coins": [
+        "FLUX",
+        "KAS",
+        "STX",
+        "VRSC",
+        "FIRO",
+        "LTC",
+        "NANO",
+        "ZIL",
+        "RTM",
+        "XMR",
+        "CFX",
+        "RVN",
+        "XHV",
+        "ZANO",
+        "ERG",
+        "ALPH",
+        "ETHW"
+      ],
+      "values": [],
+      "analysis": [],
+      "name": "Mining"
+    },
+    {
+      "id": "888aaf3f-ff4a-416e-828b-b4af5e66223f",
+      "coins": [
+        "PEPE",
+        "ELON",
+        "TSUKA",
+        "VOLT",
+        "KISHU",
+        "SNEK",
+        "BONK",
+        "BOBT"
+      ],
+      "values": [],
+      "analysis": [
+        {
+          "coinName": "pepe",
+          "coinId": "PEPE"
+        },
+        {
+          "coinName": "dogelon-mars",
+          "coinId": "ELON"
+        },
+        {
+          "coinName": "dejitaru-tsuka",
+          "coinId": "TSUKA"
+        },
+        {
+          "coinName": "kishu-inu",
+          "coinId": "KISHU"
+        },
+        {
+          "coinName": "snek",
+          "coinId": "SNEK"
+        },
+        {
+          "coinName": "bonk",
+          "coinId": "BONK"
+        },
+        {
+          "coinName": "bob-token",
+          "coinId": "BOBT"
+        },
+        {
+          "coinName": "volt-inu-2",
+          "coinId": "VOLT"
+        }
+      ],
+      "name": "Trading Buys"
+    }
+  ]
+}
