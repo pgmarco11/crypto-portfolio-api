@@ -4,7 +4,6 @@
       "id": "2449c886-d7c4-4dd2-a1ed-c96e6d76f739",
       "coins": [
         "ALGO",
-        "RUNE",
         "SAND",
         "XRP",
         "BNB",
@@ -15,87 +14,185 @@
         "BTC",
         "ETH"
       ],
-      "values": [],
-      "analysis": [],
-      "name": "hodl"
-    },
-    {
-      "name": "MeMe",
-      "id": "8939ed4f-7e24-49ae-9db0-431d2d3119ff",
-      "coins": [
-        "QUACK",
-        "CATE",
-        "VINU",
-        "MONG",
-        "FLOKI",
-        "PAXG",
-        "BOBT"
-      ],
       "values": [
         {
-          "coinId": "FLOKI",
-          "amount": 4672680.245
+          "coinId": "BTC",
+          "amount": 0.2135617,
+          "timestamp": 1685592000
         },
         {
-          "coinId": "MONG",
-          "amount": 641628520
+          "coinId": "ETH",
+          "amount": 2.84873,
+          "timestamp": 1685592000
         },
         {
-          "coinId": "BOBT",
-          "amount": 1109962.97194373
+          "coinId": "XRP",
+          "amount": 1091.3392,
+          "timestamp": 1685592000
         },
         {
-          "coinId": "VINU",
-          "amount": 10395299543.28
+          "coinId": "BNB",
+          "amount": 1.921162,
+          "timestamp": 1685592000
         },
         {
-          "coinId": "CATE",
-          "amount": 169660413.6248897
+          "coinId": "MATIC",
+          "amount": 703.0023,
+          "timestamp": 1685592000
         },
         {
-          "coinId": "QUACK",
-          "amount": 95002618651.3472
+          "coinId": "ADA",
+          "amount": 1165.91012,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "QNT",
+          "amount": 3.05540473,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "NEAR",
+          "amount": 160.55516,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "SAND",
+          "amount": 391.67441273543193,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "ALGO",
+          "amount": 682.40904,
+          "timestamp": 1685592000
         }
       ],
       "analysis": [
         {
-          "coinName": "mongcoin",
-          "coinId": "MONG"
+          "coinName": "algorand",
+          "coinId": "ALGO"
+        },
+        {
+          "coinName": "the-sandbox",
+          "coinId": "SAND"
+        },
+        {
+          "coinName": "binance-coin",
+          "coinId": "BNB"
+        },
+        {
+          "coinName": "near",
+          "coinId": "NEAR"
+        },
+        {
+          "coinName": "quant-network",
+          "coinId": "QNT"
+        },
+        {
+          "coinName": "matic-network",
+          "coinId": "MATIC"
+        },
+        {
+          "coinName": "cardano",
+          "coinId": "ADA"
+        },
+        {
+          "coinName": "bitcoin",
+          "coinId": "BTC"
+        }
+      ],
+      "name": "hodl",
+      "start_date": 1685592000
+    },
+    {
+      "name": "MeMe",
+      "id": "8939ed4f-7e24-49ae-9db0-431d2d3119ff",
+      "start_date": 1685592000,
+      "coins": [
+        "QUACK",
+        "VINU",
+        "FLOKI",
+        "PAXG",
+        "VOLT",
+        "TSUKA",
+        "PEPE"
+      ],
+      "values": [
+        {
+          "coinId": "FLOKI",
+          "amount": 4672680.245,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "VINU",
+          "amount": 10395299543.28,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "QUACK",
+          "amount": 95002618651.3472,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "VOLT",
+          "amount": 144174674,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "TSUKA",
+          "amount": 1515.49,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "PEPE",
+          "amount": 92760651.8122
+        }
+      ],
+      "analysis": [
+        {
+          "coinName": "richquack",
+          "coinId": "QUACK"
+        },
+        {
+          "coinName": "vita-inu",
+          "coinId": "VINU"
+        },
+        {
+          "coinName": "floki",
+          "coinId": "FLOKI"
+        },
+        {
+          "coinName": "pax-gold",
+          "coinId": "PAXG"
+        },
+        {
+          "coinName": "volt-inu-2",
+          "coinId": "VOLT"
+        },
+        {
+          "coinName": "dejitaru-tsuka",
+          "coinId": "TSUKA"
+        },
+        {
+          "coinName": "pepe",
+          "coinId": "PEPE"
         }
       ]
     },
     {
       "id": "d2aad7eb-9fa2-46d1-a472-09aefb2b866e",
       "coins": [
-        "CUMMIES",
         "SENSO",
-        "HIGH",
-        "FOX",
-        "FUSE",
-        "BONK",
         "SOLVE",
         "TREEB",
-        "TOWN",
-        "DAFI",
-        "BEETS",
         "MAN",
-        "MOOV",
         "DVI",
-        "HORD",
         "NAKA",
-        "HOGE",
         "UBT",
         "VXV",
-        "GODS",
-        "UFO",
-        "ATLAS",
-        "WILD",
         "PRE",
         "VLX",
         "MTRG",
         "JUNO",
-        "GHST",
-        "SFUND",
         "STG",
         "AAVE",
         "COMP",
@@ -103,35 +200,63 @@
         "LDO",
         "RPL",
         "ARRR",
-        "KISHU",
         "COTI",
         "PYR",
-        "LOOKS",
         "XCAD",
         "DUSK",
-        "CORE",
         "DYDX",
         "AR",
         "ROSE",
         "IOTX",
-        "LYXE",
-        "DENT",
-        "HELLO",
         "DFG",
         "GMX",
         "IMX",
         "INJ",
-        "MASK",
         "SPOOL",
         "XRD",
         "THETA",
-        "BLUR",
         "DPX",
         "UNI",
-        "OP",
         "APT",
         "KAVA",
-        "ELON"
+        "CKB",
+        "OCEAN",
+        "RNDR",
+        "GLMR",
+        "FLOW",
+        "MINA",
+        "MASK",
+        "GET",
+        "ZEC",
+        "HERO",
+        "IQ",
+        "DAFI",
+        "WAXE",
+        "BDP",
+        "ARV",
+        "FUN",
+        "DAG",
+        "METIS",
+        "HBAR",
+        "POLY",
+        "SCRT",
+        "YGG",
+        "OSMO",
+        "BICO",
+        "CAKE",
+        "GTC",
+        "CHZ",
+        "FET",
+        "ARB",
+        "OP",
+        "DENT",
+        "BLUR",
+        "ZEN",
+        "HNT",
+        "MIOTA",
+        "WAXP",
+        "EDU",
+        "MANTLE"
       ],
       "values": [],
       "analysis": [],
@@ -139,37 +264,62 @@
     },
     {
       "id": "243cb572-8ad6-4cdd-90a4-fe01b8c2008f",
+      "start_date": 1685592000,
       "coins": [
-        "SOUL",
-        "OCT",
         "WAS",
         "MASQ",
-        "KATA",
-        ""
+        "HELLO",
+        "ALU",
+        "NAKA"
       ],
       "values": [
         {
-          "coinId": "SOUL",
-          "amount": "662.14312"
-        },
-        {
           "coinId": "WAS",
-          "amount": "2452.128"
-        },
-        {
-          "coinId": "OCT",
-          "amount": "382.93"
+          "amount": 2452.128,
+          "timestamp": 1685592000
         },
         {
           "coinId": "MASQ",
-          "amount": "225.896673074215208003"
+          "amount": 225.89667307421522,
+          "timestamp": 1685592000
         },
         {
-          "coinId": "KATA",
-          "amount": "130779.775"
+          "coinId": "ALU",
+          "amount": 1488.2601,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "HELLO",
+          "amount": 2686.2325,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "NAKA",
+          "amount": 96.85
         }
       ],
-      "analysis": [],
+      "analysis": [
+        {
+          "coinName": "wasder",
+          "coinId": "WAS"
+        },
+        {
+          "coinName": "masq",
+          "coinId": "MASQ"
+        },
+        {
+          "coinName": "hello-labs",
+          "coinId": "HELLO"
+        },
+        {
+          "coinName": "altura",
+          "coinId": "ALU"
+        },
+        {
+          "coinName": "nakamoto-games",
+          "coinId": "NAKA"
+        }
+      ],
       "name": "Degen"
     },
     {
@@ -177,60 +327,203 @@
       "coins": [
         "AGI",
         "SHIB",
-        "BABYDOGE",
         "AVA",
-        "CULT",
-        "HNT"
+        "AUDIO",
+        "RUNE",
+        "SOL"
       ],
       "values": [
         {
           "coinId": "SHIB",
-          "amount": 19235873.601
+          "amount": 24468802.5992,
+          "timestamp": 1685592000
         },
         {
           "coinId": "AGI",
-          "amount": 753.668
+          "amount": 753.668,
+          "timestamp": 1685592000
         },
         {
           "coinId": "BABYDOGE",
-          "amount": 80088289501.9974
-        },
-        {
-          "coinId": "HNT",
-          "amount": 47.110524
+          "amount": 80088289501.9974,
+          "timestamp": 1685592000
         },
         {
           "coinId": "AVA",
-          "amount": 0.46771
+          "amount": 207.37097815,
+          "timestamp": 1685592000
         },
         {
           "coinId": "CULT",
-          "amount": 13523056.18347625
+          "amount": 13523056.18347625,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "AUDIO",
+          "amount": 1121.9743,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "RUNE",
+          "amount": 96.90076,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "SOL",
+          "amount": 4.349824591
         }
       ],
-      "analysis": [],
-      "name": "Beyond"
+      "analysis": [
+        {
+          "coinName": "singularitynet",
+          "coinId": "AGI"
+        },
+        {
+          "coinName": "shiba-inu",
+          "coinId": "SHIB"
+        },
+        {
+          "coinName": "concierge-io-com",
+          "coinId": "AVA"
+        },
+        {
+          "coinName": "audius",
+          "coinId": "AUDIO"
+        },
+        {
+          "coinName": "thorchain",
+          "coinId": "RUNE"
+        },
+        {
+          "coinName": "solana",
+          "coinId": "SOL"
+        }
+      ],
+      "name": "Beyond",
+      "start_date": 1685592000
     },
     {
       "id": "cfef1095-7631-4cdd-a469-f7f8fd340f6a",
       "coins": [
         "AVAX",
-        "LRC",
         "ATOM",
-        "FTM",
-        "AUDIO",
         "LINK",
         "DOGE",
         "EGLD",
         "GALA",
         "CRO",
-        "LDO",
-        "THETA",
-        "ICP"
+        "ICP",
+        "INJ",
+        "RNDR",
+        "RPL"
       ],
-      "values": [],
-      "analysis": [],
-      "name": "Moon"
+      "values": [
+        {
+          "coinId": "DOGE",
+          "amount": 4149.8886,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "AVAX",
+          "amount": 26.304548705,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "LINK",
+          "amount": 45.69876,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "ATOM",
+          "amount": 31.488775,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "ICP",
+          "amount": 37.05,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "CRO",
+          "amount": 4364.22,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "EGLD",
+          "amount": 7.591412004160723,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "GALA",
+          "amount": 5724.94419163,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "AUDIO",
+          "amount": 1121.9743,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "RNDR",
+          "amount": 150.3
+        },
+        {
+          "coinId": "INJ",
+          "amount": 29.39615531
+        },
+        {
+          "coinId": "RPL",
+          "amount": 7.22
+        }
+      ],
+      "analysis": [
+        {
+          "coinName": "avalanche-2",
+          "coinId": "AVAX"
+        },
+        {
+          "coinName": "cosmos",
+          "coinId": "ATOM"
+        },
+        {
+          "coinName": "chainlink",
+          "coinId": "LINK"
+        },
+        {
+          "coinName": "dogecoin",
+          "coinId": "DOGE"
+        },
+        {
+          "coinName": "elrond-erd-2",
+          "coinId": "EGLD"
+        },
+        {
+          "coinName": "gala",
+          "coinId": "GALA"
+        },
+        {
+          "coinName": "crypto-com-chain",
+          "coinId": "CRO"
+        },
+        {
+          "coinName": "internet-computer",
+          "coinId": "ICP"
+        },
+        {
+          "coinName": "injective-protocol",
+          "coinId": "INJ"
+        },
+        {
+          "coinName": "render",
+          "coinId": "RNDR"
+        },
+        {
+          "coinName": "rocket-pool",
+          "coinId": "RPL"
+        }
+      ],
+      "name": "Moon",
+      "start_date": 1685592000
     },
     {
       "id": "4577e8cc-ba74-4b4f-b4dc-0af8c91ace8d",
@@ -241,19 +534,130 @@
         "VRSC",
         "FIRO",
         "LTC",
-        "NANO",
         "ZIL",
         "RTM",
-        "XMR",
         "CFX",
         "RVN",
         "XHV",
-        "ZANO",
         "ERG",
         "ALPH",
-        "ETHW"
+        "ETHW",
+        "MYST",
+        "RXD",
+        "XCH",
+        "KDA",
+        "CKB",
+        "CTXC",
+        "ZANO",
+        "BEAM",
+        "XMR",
+        "DIMO",
+        "HONEY",
+        "ARRR",
+        "EPIC",
+        "XLA",
+        "BTRM",
+        "XNA",
+        "NANO",
+        "PGN",
+        "ZEN",
+        "BTC"
       ],
-      "values": [],
+      "values": [
+        {
+          "coinId": "FLUX",
+          "amount": 1112.143259,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "KAS",
+          "amount": 9768.27757139,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "LTC",
+          "amount": 0.74210265,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "CFX",
+          "amount": 41.434913,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "STX",
+          "amount": 286.746306,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "ZIL",
+          "amount": 1164.660043,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "RVN",
+          "amount": 690.53807539,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "ETHW",
+          "amount": 1.56096,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "VRSC",
+          "amount": 147.55087517,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "FIRO",
+          "amount": 34.62,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "RTM",
+          "amount": 16577.392,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "MYST",
+          "amount": 131.2889,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "XHV",
+          "amount": 15.65,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "RXD",
+          "amount": 21493.1908
+        },
+        {
+          "coinId": "XMR",
+          "amount": 0.15660291
+        },
+        {
+          "coinId": "EPIC",
+          "amount": 4.9
+        },
+        {
+          "coinId": "NANO",
+          "amount": 65.72750706
+        },
+        {
+          "coinId": "BTRM",
+          "amount": 3998.13
+        },
+        {
+          "coinId": "XLA",
+          "amount": 3210.1
+        },
+        {
+          "coinId": "BTC",
+          "amount": 0.00010787
+        }
+      ],
       "analysis": [],
       "name": "Mining"
     },
@@ -262,49 +666,110 @@
       "coins": [
         "PEPE",
         "ELON",
-        "TSUKA",
-        "VOLT",
-        "KISHU",
         "SNEK",
         "BONK",
-        "BOBT"
+        "LADYS",
+        "BONE",
+        "BABYDOGE"
       ],
       "values": [],
-      "analysis": [
-        {
-          "coinName": "pepe",
-          "coinId": "PEPE"
-        },
-        {
-          "coinName": "dogelon-mars",
-          "coinId": "ELON"
-        },
-        {
-          "coinName": "dejitaru-tsuka",
-          "coinId": "TSUKA"
-        },
-        {
-          "coinName": "kishu-inu",
-          "coinId": "KISHU"
-        },
-        {
-          "coinName": "snek",
-          "coinId": "SNEK"
-        },
-        {
-          "coinName": "bonk",
-          "coinId": "BONK"
-        },
-        {
-          "coinName": "bob-token",
-          "coinId": "BOBT"
-        },
-        {
-          "coinName": "volt-inu-2",
-          "coinId": "VOLT"
-        }
-      ],
+      "analysis": [],
       "name": "Trading Buys"
+    },
+    {
+      "id": "2d6871f3-33b8-494b-a6a2-52f05479ec1c",
+      "coins": [
+        "LUNA",
+        "GMT",
+        "GENS",
+        "RYOSHI",
+        "ACA",
+        "TONCOIN",
+        "PARALL",
+        "RVLT",
+        "GASDAO",
+        "BSGG",
+        "SGB",
+        "FLR",
+        "OPENDAO"
+      ],
+      "analysis": [],
+      "name": "airdrops",
+      "values": [
+        {
+          "coinId": "TONCOIN",
+          "amount": 84.649562206,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "LUNA",
+          "amount": 27.69552,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "PARALL",
+          "amount": 623.1047,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "GMT",
+          "amount": 13.906886115,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "ACA",
+          "amount": 26.6407,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "GENS",
+          "amount": 4636.600415362,
+          "timestamp": 1685592000
+        },
+        {
+          "coinId": "RVLT",
+          "amount": 8790651.204474594
+        },
+        {
+          "coinId": "GASDAO",
+          "amount": 369138.95
+        },
+        {
+          "coinId": "OPENDAO",
+          "amount": 3617562.23
+        },
+        {
+          "coinId": "SGB",
+          "amount": 115.5599
+        },
+        {
+          "coinId": "FLR",
+          "amount": 115.5599
+        },
+        {
+          "coinId": "BSGG",
+          "amount": 376.18734
+        },
+        {
+          "coinId": "RYOSHI",
+          "amount": 215457420.202
+        }
+      ]
+    },
+    {
+      "id": "269d7da6-4e89-4c86-9eb3-728e53dce99b",
+      "coins": [
+        "ZEN",
+        "HUSH",
+        "ARRR",
+        "KMD",
+        "SCRT",
+        "XMR",
+        "ZEC"
+      ],
+      "start_date": 1689092863,
+      "analysis": [],
+      "name": "Privacy"
     }
   ]
 }
