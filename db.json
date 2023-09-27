@@ -169,13 +169,15 @@
         "ARKM",
         "JEWEL",
         "WAGMIGAMES",
-        "BEAI"
+        "BEAI",
+        "WMT"
       ],
       "values": [],
       "analysis": [
         {
           "coinName": "stargate-finance",
-          "coinId": "STG"
+          "coinId": "STG",
+          "prediction": 0.487
         },
         {
           "coinName": "pirate-chain",
@@ -183,7 +185,8 @@
         },
         {
           "coinName": "vulcan-forged",
-          "coinId": "PYR"
+          "coinId": "PYR",
+          "prediction": 11.274
         },
         {
           "coinName": "xcad-network",
@@ -192,28 +195,33 @@
         },
         {
           "coinName": "dydx",
-          "coinId": "DYDX"
+          "coinId": "DYDX",
+          "prediction": 3.77
         },
         {
           "coinName": "gmx",
           "coinId": "GMX",
-          "prediction": 52
+          "prediction": 52.038
         },
         {
           "coinName": "immutable-x",
-          "coinId": "IMX"
+          "coinId": "IMX",
+          "prediction": 0.0636
         },
         {
           "coinName": "radix",
-          "coinId": "XRD"
+          "coinId": "XRD",
+          "prediction": 0.0652
         },
         {
           "coinName": "ocean-protocol",
-          "coinId": "OCEAN"
+          "coinId": "OCEAN",
+          "prediction": 0.227
         },
         {
           "coinName": "flow",
-          "coinId": "FLOW"
+          "coinId": "FLOW",
+          "prediction": 0.0369
         },
         {
           "coinName": "dafi-protocol",
@@ -225,7 +233,8 @@
         },
         {
           "coinName": "constellation-labs",
-          "coinId": "DAG"
+          "coinId": "DAG",
+          "prediction": 0.00881
         },
         {
           "coinName": "secret",
@@ -237,7 +246,8 @@
         },
         {
           "coinName": "pancakeswap-token",
-          "coinId": "CAKE"
+          "coinId": "CAKE",
+          "prediction": 0.0792
         },
         {
           "coinName": "gitcoin",
@@ -245,31 +255,38 @@
         },
         {
           "coinName": "fetch-ai",
-          "coinId": "FET"
+          "coinId": "FET",
+          "prediction": 0.09071
         },
         {
           "coinName": "arbitrum",
-          "coinId": "ARB"
+          "coinId": "ARB",
+          "prediction": 0.0934
         },
         {
           "coinName": "blur",
-          "coinId": "BLUR"
+          "coinId": "BLUR",
+          "prediction": 0.181
         },
         {
           "coinName": "zencash",
-          "coinId": "ZEN"
+          "coinId": "ZEN",
+          "prediction": 0.916
         },
         {
           "coinName": "helium",
-          "coinId": "HNT"
+          "coinId": "HNT",
+          "prediction": 0.129
         },
         {
           "coinName": "decentraland",
-          "coinId": "MANA"
+          "coinId": "MANA",
+          "prediction": 0.0361
         },
         {
           "coinName": "arkham",
-          "coinId": "ARKM"
+          "coinId": "ARKM",
+          "prediction": 0.0161
         },
         {
           "coinName": "defi-kingdoms",
@@ -277,7 +294,25 @@
         },
         {
           "coinName": "mina-protocol",
-          "coinId": "MINA"
+          "coinId": "MINA",
+          "prediction": 0.23
+        },
+        {
+          "coinName": "benft-solutions",
+          "coinId": "BEAI"
+        },
+        {
+          "coinName": "pancakeswap-token",
+          "coinId": "CAKE",
+          "prediction": 0.0792
+        },
+        {
+          "coinName": "dent",
+          "coinId": "DENT"
+        },
+        {
+          "coinName": "world-mobile-token",
+          "coinId": "WMT"
         }
       ]
     },
@@ -447,7 +482,8 @@
       "analysis": [
         {
           "coinName": "gala",
-          "coinId": "GALA"
+          "coinId": "GALA",
+          "prediction": 0.01099
         }
       ]
     },
