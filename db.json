@@ -92,7 +92,7 @@
         },
         {
           "coinId": "PAXG",
-          "amount": 0.06036716
+          "amount": "0.06571"
         },
         {
           "coinId": "LADYS",
@@ -173,148 +173,7 @@
         "WMT"
       ],
       "values": [],
-      "analysis": [
-        {
-          "coinName": "stargate-finance",
-          "coinId": "STG",
-          "prediction": 0.487
-        },
-        {
-          "coinName": "pirate-chain",
-          "coinId": "ARRR"
-        },
-        {
-          "coinName": "vulcan-forged",
-          "coinId": "PYR",
-          "prediction": 11.274
-        },
-        {
-          "coinName": "xcad-network",
-          "coinId": "XCAD",
-          "prediction": 1
-        },
-        {
-          "coinName": "dydx",
-          "coinId": "DYDX",
-          "prediction": 3.77
-        },
-        {
-          "coinName": "gmx",
-          "coinId": "GMX",
-          "prediction": 52.038
-        },
-        {
-          "coinName": "immutable-x",
-          "coinId": "IMX",
-          "prediction": 0.0636
-        },
-        {
-          "coinName": "radix",
-          "coinId": "XRD",
-          "prediction": 0.0652
-        },
-        {
-          "coinName": "ocean-protocol",
-          "coinId": "OCEAN",
-          "prediction": 0.227
-        },
-        {
-          "coinName": "flow",
-          "coinId": "FLOW",
-          "prediction": 0.0369
-        },
-        {
-          "coinName": "dafi-protocol",
-          "coinId": "DAFI"
-        },
-        {
-          "coinName": "big-data-protocol",
-          "coinId": "BDP"
-        },
-        {
-          "coinName": "constellation-labs",
-          "coinId": "DAG",
-          "prediction": 0.00881
-        },
-        {
-          "coinName": "secret",
-          "coinId": "SCRT"
-        },
-        {
-          "coinName": "yield-guild-games",
-          "coinId": "YGG"
-        },
-        {
-          "coinName": "pancakeswap-token",
-          "coinId": "CAKE",
-          "prediction": 0.0792
-        },
-        {
-          "coinName": "gitcoin",
-          "coinId": "GTC"
-        },
-        {
-          "coinName": "fetch-ai",
-          "coinId": "FET",
-          "prediction": 0.09071
-        },
-        {
-          "coinName": "arbitrum",
-          "coinId": "ARB",
-          "prediction": 0.0934
-        },
-        {
-          "coinName": "blur",
-          "coinId": "BLUR",
-          "prediction": 0.181
-        },
-        {
-          "coinName": "zencash",
-          "coinId": "ZEN",
-          "prediction": 0.916
-        },
-        {
-          "coinName": "helium",
-          "coinId": "HNT",
-          "prediction": 0.129
-        },
-        {
-          "coinName": "decentraland",
-          "coinId": "MANA",
-          "prediction": 0.0361
-        },
-        {
-          "coinName": "arkham",
-          "coinId": "ARKM",
-          "prediction": 0.0161
-        },
-        {
-          "coinName": "defi-kingdoms",
-          "coinId": "JEWEL"
-        },
-        {
-          "coinName": "mina-protocol",
-          "coinId": "MINA",
-          "prediction": 0.23
-        },
-        {
-          "coinName": "benft-solutions",
-          "coinId": "BEAI"
-        },
-        {
-          "coinName": "pancakeswap-token",
-          "coinId": "CAKE",
-          "prediction": 0.0792
-        },
-        {
-          "coinName": "dent",
-          "coinId": "DENT"
-        },
-        {
-          "coinName": "world-mobile-token",
-          "coinId": "WMT"
-        }
-      ]
+      "analysis": []
     },
     {
       "name": "Degen",
@@ -408,13 +267,13 @@
         "LINK",
         "DOGE",
         "EGLD",
-        "GALA",
         "CRO",
         "ICP",
         "INJ",
         "RNDR",
         "RPL",
-        "SOL"
+        "SOL",
+        "GMX"
       ],
       "values": [
         {
@@ -453,11 +312,6 @@
           "timestamp": 1685592000
         },
         {
-          "coinId": "GALA",
-          "amount": 5724.94419163,
-          "timestamp": 1685592000
-        },
-        {
           "coinId": "AUDIO",
           "amount": 1121.9743,
           "timestamp": 1685592000
@@ -477,15 +331,13 @@
         {
           "coinId": "SOL",
           "amount": 5.326194871
+        },
+        {
+          "coinId": "GMX",
+          "amount": "2.3"
         }
       ],
-      "analysis": [
-        {
-          "coinName": "gala",
-          "coinId": "GALA",
-          "prediction": 0.01099
-        }
-      ]
+      "analysis": []
     },
     {
       "name": "Mining",
@@ -588,7 +440,7 @@
         },
         {
           "coinId": "MYST",
-          "amount": 131.2889,
+          "amount": "229.96286",
           "timestamp": 1685592000
         },
         {
@@ -629,7 +481,112 @@
           "amount": 8717.3161
         }
       ],
-      "analysis": []
+      "analysis": [
+        {
+          "coinName": "zelcash",
+          "coinId": "FLUX"
+        },
+        {
+          "coinName": "kaspa",
+          "coinId": "KAS"
+        },
+        {
+          "coinName": "blockstack",
+          "coinId": "STX"
+        },
+        {
+          "coinName": "verus-coin",
+          "coinId": "VRSC"
+        },
+        {
+          "coinName": "zcoin",
+          "coinId": "FIRO"
+        },
+        {
+          "coinName": "litecoin",
+          "coinId": "LTC"
+        },
+        {
+          "coinName": "zilliqa",
+          "coinId": "ZIL"
+        },
+        {
+          "coinName": "raptoreum",
+          "coinId": "RTM"
+        },
+        {
+          "coinName": "conflux-token",
+          "coinId": "CFX"
+        },
+        {
+          "coinName": "ravencoin",
+          "coinId": "RVN"
+        },
+        {
+          "coinName": "ergo",
+          "coinId": "ERG"
+        },
+        {
+          "coinName": "alephium",
+          "coinId": "ALPH"
+        },
+        {
+          "coinName": "ethereum-pow-iou",
+          "coinId": "ETHW"
+        },
+        {
+          "coinName": "mysterium",
+          "coinId": "MYST"
+        },
+        {
+          "coinName": "radiant",
+          "coinId": "RXD"
+        },
+        {
+          "coinName": "chia",
+          "coinId": "XCH"
+        },
+        {
+          "coinName": "cortex",
+          "coinId": "CTXC"
+        },
+        {
+          "coinName": "zano",
+          "coinId": "ZANO"
+        },
+        {
+          "coinName": "beam",
+          "coinId": "BEAM"
+        },
+        {
+          "coinName": "monero",
+          "coinId": "XMR"
+        },
+        {
+          "coinName": "pirate-chain",
+          "coinId": "ARRR"
+        },
+        {
+          "coinName": "epic-cash",
+          "coinId": "EPIC"
+        },
+        {
+          "coinName": "nano",
+          "coinId": "NANO"
+        },
+        {
+          "coinName": "zencash",
+          "coinId": "ZEN"
+        },
+        {
+          "coinName": "bitcoin",
+          "coinId": "BTC"
+        },
+        {
+          "coinName": "octaspace",
+          "coinId": "OCTA"
+        }
+      ]
     },
     {
       "name": "Trading Buys",
@@ -640,7 +597,10 @@
         "BONK",
         "BONE",
         "BABYDOGE",
-        "VINU"
+        "VINU",
+        "SQUIDGROW",
+        "BAN",
+        "AI"
       ],
       "values": [],
       "analysis": []
@@ -727,6 +687,10 @@
         {
           "coinId": "BONE",
           "amount": 0.29841
+        },
+        {
+          "coinId": "SWEAT",
+          "amount": ""
         }
       ],
       "analysis": []
@@ -737,7 +701,6 @@
       "start_date": 1689092863,
       "coins": [
         "ZEN",
-        "HUSH",
         "ARRR",
         "KMD",
         "SCRT",
@@ -757,11 +720,11 @@
       "values": [
         {
           "coinId": "TSUKA",
-          "amount": 2167.43
+          "amount": "1963.73"
         },
         {
           "coinId": "VOLT",
-          "amount": 144174674
+          "amount": "144174674"
         }
       ],
       "analysis": []
@@ -781,7 +744,7 @@
       "values": [
         {
           "coinId": "BNB",
-          "amount": 2
+          "amount": ""
         }
       ]
     }
