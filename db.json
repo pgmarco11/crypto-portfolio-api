@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "portfolios": [
     {
       "name": "hodl",
@@ -750,3 +751,7 @@
     }
   ]
 }
+=======
+  "portfolios": [{}]
+}
+>>>>>>> 30d2bee4475f403c36c9dd8a15f8623a94fa2423
