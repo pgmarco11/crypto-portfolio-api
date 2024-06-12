@@ -1,9 +1,9 @@
+//packages added
+import express from 'express';
+import { get } from 'axios';
+
 //listening port
 const PORT = 8888;
-//packages added
-const express = require('express');
-const axios = require('axios');
-const cheerio = require('cheerio');
 
 //calls express require function
 const app = express();
@@ -17,7 +17,7 @@ app.get('/', (req,res) => {
     
     res.json('Portfolio Name')
 
-    axios.get('http://localhost:3000/')
+    get('http://localhost:3000/')
 
 })
 
