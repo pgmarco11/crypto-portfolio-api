@@ -3,15 +3,21 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "start": "json-server -p 3006 -w db.json"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "author": "Peter Giammarco",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2",
     "cheerio": "^1.0.0-rc.10",
+    "cors": "^2.8.5",
     "express": "^4.18.1",
+    "fs-extra": "^11.2.0"
+  },
+  "devDependencies": {
     "nodemon": "^2.0.16"
   }
 }
